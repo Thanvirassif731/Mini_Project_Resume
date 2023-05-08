@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: justify;
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+#hello {
+    padding: 10vh;
+    font-weight: bolder;
+}
+
+.buttons {
+    text-align: center;
+}
+
+#red {
+    background-color: red;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    margin-right: 5vh;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
+
+#green {
+    background-color: green;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    margin-right: 5vh;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
+
+#blue {
+    background-color: blue;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
