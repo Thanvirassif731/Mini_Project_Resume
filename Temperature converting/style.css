@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 5%;
+    align-items: center;
+    text-align: center;
+}
+
+#answer {
+    font-size: 50px;
+}
+
