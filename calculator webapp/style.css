@@ -1,0 +1,42 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(70deg, #03fc6b, white);
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+.top {
+    background-color:aliceblue;
+    backdrop-filter: blur (50px);
+    margin: 5vh;
+    padding: 5vh;
+    text-align: center;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+.heading {
+    text-shadow: 3px 3px 3px rgb(225, 120, 120);
+    font-size: 3rem;
+    color: #03fc6b;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.description {
+    color:rgb(104, 103, 103);
+    text-shadow: 2px 2px 3px #6c6c6c;
+    padding-top: 2vh;
+    font-style:italic;
+}
+
+section > button {
+    background-color: white;
+    color:rgb(104, 103, 103);
+    width: 2vh;
+    padding: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2vh;
+}
